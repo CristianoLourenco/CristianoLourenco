@@ -51,6 +51,7 @@ I'm waiting for you.
 
 ## Links
 - link solution - [3-column-card-preview](https://cristianolourenco.github.io/CristianoLourenco/)
+- Email - [Cristianolourenco319@gmail.com](https://Cristianolourenco319@gmail.com)
 - Facebook - [Cristiano Lourenco](https://www.facebook.com/profile.php?id=100010344993093)
 - Frontend Mentor - [@CristianoLourenco](https://www.frontendmentor.io/profile/CristianoLourenco)
 - Guithub - [@CristianoLourenco](https://github.com/CristianoLourenco)
